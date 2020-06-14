@@ -3,9 +3,9 @@ This repository contains application requirements for graduation in the Dicoding
 
 ## Screenshot
 
-<img src="https://github.com/fghilmany/GitHub-User-App/blob/master/Screenshot/consummerapp.jpg"
+<img src="https://github.com/fghilmany/GitHub-User-App/blob/master/Screenshot/home.jpg"
 width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/fghilmany/GitHub-User-App/blob/master/Screenshot/profile.jpg"
+<img src="https://github.com/fghilmany/GitHub-User-App/blob/master/Screenshot/profil.jpg"
 width="256">&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/fghilmany/GitHub-User-App/blob/master/Screenshot/favorite.jpg"
 width="256">&nbsp;&nbsp;&nbsp;
