@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Github User</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hint_search_user">Search User</string>
+    <string name="data_kosong">Data Kosong</string>
+    <string name="setting">Setting</string>
+    <string name="content_text">Cari teman belajarmu di Github</string>
+    <string name="reminder_key">reminder</string>
+</resources>
