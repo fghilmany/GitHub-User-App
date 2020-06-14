@@ -3,15 +3,15 @@ This repository contains application requirements for graduation in the Dicoding
 
 ## Screenshot
 
-<img src="https://github.com/fghilmany/GitHub-User-App//tree/master/Screenshot/home.jpg"
+<img src="https://github.com/fghilmany/GitHub-User-App/blob/master/Screenshot/consummerapp.jpg"
 width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/fghilmany/GitHub-User-App//tree/master/Screenshot/profile.jpg"
+<img src="https://github.com/fghilmany/GitHub-User-App/blob/master/Screenshot/profile.jpg"
 width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/fghilmany/GitHub-User-App//tree/master/Screenshot/favorite.jpg"
+<img src="https://github.com/fghilmany/GitHub-User-App/blob/master/Screenshot/favorite.jpg"
 width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/fghilmany/GitHub-User-App//tree/master/Screenshot/setting.jpg"
+<img src="https://github.com/fghilmany/GitHub-User-App/blob/master/Screenshot/setting.jpg"
 width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/fghilmany/GitHub-User-App//tree/master/Screenshot/consummerapp.jpg"
+<img src="https://github.com/fghilmany/GitHub-User-App/blob/master/Screenshot/consummerapp.jpg"
 width="256">&nbsp;&nbsp;&nbsp;
 
 ## Requirement
