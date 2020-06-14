@@ -40,6 +40,7 @@ width="256">&nbsp;&nbsp;&nbsp;
 
 ## Author
 * ** Faris Ghilmany **
+https://www.dicoding.com/users/204678/academies
 
 > CAUTION : If you are a participant in the "Belajar Fundamental Aplikasi Android" class, you are prohibited from copying this repository. Make this repository as a reference only.
 
